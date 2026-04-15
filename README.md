@@ -158,4 +158,5 @@ If the editor is open and Live Coding is active, close the editor before rebuild
 - [Editor Workflow](Docs/EDITOR_WORKFLOW.md)
 - [Showcase Recording](Docs/SHOWCASE_RECORDING.md)
 - [Settings Reference](Docs/SETTINGS_REFERENCE.md)
+- [FAQ](Docs/FAQ.md)
 - [Release Notes 0.1.0](Docs/RELEASE_NOTES_0.1.0.md)
