@@ -21,6 +21,12 @@ Current MVP features:
 
 The plugin has been validated with `RunUAT BuildPlugin -TargetPlatforms=Win64`.
 
+## Release Status
+
+`0.1.0` was approved on Fab on April 16, 2026.
+
+This repository contains public documentation only. The plugin source, Unreal assets, and release packages are distributed through Fab.
+
 ## Installation
 
 1. Copy this plugin folder into your Unreal project:

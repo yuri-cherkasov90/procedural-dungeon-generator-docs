@@ -2,6 +2,12 @@
 
 `0.1.0` is the first showcase-ready MVP for Procedural Dungeon Generator.
 
+Fab status:
+
+```text
+Approved on April 16, 2026.
+```
+
 ## Highlights
 
 - Deterministic seed-based dungeon generation.
@@ -12,7 +18,7 @@
 - Optional neon debug overlay.
 - Demo map for basic validation.
 - Showcase map for screenshots, flythrough capture, and third-person runtime playtest.
-- Product docs, settings reference, and recording guide.
+- Product docs, settings reference, FAQ, and recording guide.
 
 ## Included Maps
 
@@ -68,4 +74,3 @@ Recommended validation command:
 - Optional room theming.
 - Nav mesh validation helper.
 - More compact corridor and room tuning controls.
-
